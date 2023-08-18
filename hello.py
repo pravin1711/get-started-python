@@ -1,4 +1,5 @@
-from cloudant import Cloudant
+
+# Some modification is being commited.
 from flask import Flask, render_template, request, jsonify
 import atexit
 import os
